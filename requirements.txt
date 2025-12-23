@@ -1,0 +1,6 @@
+open3d>=0.15.0
+numpy>=1.21.0
+PyQt5>=5.15.0
+pyvista>=0.32.0
+pyvistaqt>=0.7.0
+scipy>=1.7.0
